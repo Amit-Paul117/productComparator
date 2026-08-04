@@ -1,1 +1,1 @@
-ProductComparator
+ProductComparator!
